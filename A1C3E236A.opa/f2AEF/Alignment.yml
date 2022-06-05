@@ -1,0 +1,16 @@
+segment_sources:
+  ID18CCE51:
+    type: origin_type
+    relation: translation
+    language: en
+  I7BBBEF3C:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  7e5c21e049b649618de530d4ecbdf003:
+    ID18CCE51: 56679b7fc7b049a59c0ead07c2777467
+    I7BBBEF3C: a5664afea3e74978965f35e505502da5
+  1f542474377d48a59fba7ca4af91cfda:
+    ID18CCE51: cc4b6805a3984234b7783df32782bc0e
+    I7BBBEF3C: 77284d65d4b54d5ab9bd16ee35d5b86f
